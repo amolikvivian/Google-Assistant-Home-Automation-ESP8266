@@ -3,4 +3,4 @@ Internet of Things. Home Automation project to control the ESP8266 module using 
 
 
 ## IFTTT Applet
-<img src="img/applet.png">
+<img src='img/Applet.png'>
